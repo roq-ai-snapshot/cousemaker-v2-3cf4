@@ -1,0 +1,1232 @@
+[
+  {
+    "course": [
+      {
+        "id": "7f6826ea-7838-4366-b8f4-d3c54dccabd9",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-07T20:50:07.593Z",
+        "updated_at": "2023-08-07T14:54:01.162Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "445db9c0-ec2b-4947-8aff-0723e7509afd",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-07T13:50:12.004Z",
+        "updated_at": "2023-08-07T17:07:17.422Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4887a233-6820-422d-a8b9-fb8ec2d1e5e5",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-08T03:55:22.695Z",
+        "updated_at": "2023-08-07T12:30:13.884Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6043e217-8ab0-44b6-a1b6-9de18f0269ef",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-07T20:48:33.514Z",
+        "updated_at": "2023-08-07T19:17:43.798Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "ec69b40b-3c4c-4720-9cbc-c0b0422834d8",
+        "title": "Web Development for Beginners",
+        "description": "Build your own websites and web applications from scratch",
+        "created_at": "2023-08-08T05:57:18.971Z",
+        "updated_at": "2023-08-08T00:25:27.070Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "e528879f-e649-4828-8b35-b0e0591fd51f",
+        "created_at": "2023-08-07T17:51:24.333Z",
+        "updated_at": "2023-08-07T14:45:20.056Z",
+        "course_id": "7f6826ea-7838-4366-b8f4-d3c54dccabd9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8f202ba-8bc4-42c7-ac24-705f3501b301",
+        "created_at": "2023-08-07T19:30:08.500Z",
+        "updated_at": "2023-08-08T04:11:29.279Z",
+        "course_id": "6043e217-8ab0-44b6-a1b6-9de18f0269ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5bd4cde-66f9-45ad-8caa-f414adec4764",
+        "created_at": "2023-08-07T17:53:54.493Z",
+        "updated_at": "2023-08-07T21:38:02.111Z",
+        "course_id": "6043e217-8ab0-44b6-a1b6-9de18f0269ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b44d9fc-5b35-4211-93ad-10f7d063569a",
+        "created_at": "2023-08-08T04:45:19.233Z",
+        "updated_at": "2023-08-07T20:28:55.699Z",
+        "course_id": "ec69b40b-3c4c-4720-9cbc-c0b0422834d8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97118352-bc93-4c06-ad6d-43627f39d6b9",
+        "created_at": "2023-08-07T19:22:40.719Z",
+        "updated_at": "2023-08-07T19:11:05.452Z",
+        "course_id": "445db9c0-ec2b-4947-8aff-0723e7509afd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "54f442ea-3fbb-4c95-a630-6200bea83b06",
+        "title": "The Importance of Sustainable Living",
+        "content": "Explore the benefits of sustainable living and its impact on the environment",
+        "created_at": "2023-08-08T06:42:48.241Z",
+        "updated_at": "2023-08-07T23:11:31.059Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "090a2c56-6d67-427a-9107-d1d7cf93a0ee",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn practical tips for managing your time efficiently and increasing productivity",
+        "created_at": "2023-08-07T23:56:56.110Z",
+        "updated_at": "2023-08-07T11:21:09.772Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3aadc887-0220-4794-9103-ad78d7e16403",
+        "title": "The Future of Renewable Energy",
+        "content": "Discover the latest advancements in renewable energy technologies and their potential for a greener future",
+        "created_at": "2023-08-07T12:18:43.739Z",
+        "updated_at": "2023-08-07T20:52:55.077Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1cefdc0a-4f9c-4da1-bf69-a9ef28a45683",
+        "title": "How to Improve Your Communication Skills",
+        "content": "Enhance your communication skills to effectively convey your ideas and connect with others",
+        "created_at": "2023-08-07T11:53:06.877Z",
+        "updated_at": "2023-08-08T05:01:00.020Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b7975305-9080-4569-bffd-5c20f475fd24",
+        "title": "The Rise of E-commerce in the Digital Age",
+        "content": "Understand the growth and impact of e-commerce in the modern digital landscape",
+        "created_at": "2023-08-08T08:51:03.012Z",
+        "updated_at": "2023-08-08T06:04:45.424Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "c15461a4-c8a8-41d9-aab5-5c8b6a562c1e",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-07T17:15:15.709Z",
+        "updated_at": "2023-08-07T09:34:21.787Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2986f20e-7d74-44c1-b55b-c57890f8fdc4",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-07T12:18:37.048Z",
+        "updated_at": "2023-08-08T07:52:59.230Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3cf1d6e4-97c5-49a3-95d1-0065e3ffc561",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Gain insights into financial management techniques for entrepreneurs",
+        "created_at": "2023-08-07T22:24:14.833Z",
+        "updated_at": "2023-08-07T10:45:54.038Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "472d3bc1-449f-4974-8551-db7fd3136ea7",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the fascinating world of AI and ML",
+        "created_at": "2023-08-07T23:34:13.170Z",
+        "updated_at": "2023-08-08T00:30:38.775Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "28e79f71-ccaf-452a-9cd8-355cceed00e4",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-07T18:11:10.411Z",
+        "updated_at": "2023-08-07T16:29:51.432Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "f5e64eaf-9839-4adb-a041-74e3e8122ebb",
+        "created_at": "2023-08-07T17:05:01.788Z",
+        "updated_at": "2023-08-08T02:46:40.560Z",
+        "course_id": "472d3bc1-449f-4974-8551-db7fd3136ea7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e440837-0e0d-411f-b13c-f28adeafae05",
+        "created_at": "2023-08-08T03:47:02.370Z",
+        "updated_at": "2023-08-07T20:40:15.470Z",
+        "course_id": "28e79f71-ccaf-452a-9cd8-355cceed00e4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c39c560-4518-423c-b407-9e8e6a653e80",
+        "created_at": "2023-08-07T23:15:53.347Z",
+        "updated_at": "2023-08-08T08:02:26.559Z",
+        "course_id": "472d3bc1-449f-4974-8551-db7fd3136ea7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f13f3706-ddea-40f7-bb71-1be464ed10e6",
+        "created_at": "2023-08-07T16:31:46.514Z",
+        "updated_at": "2023-08-08T06:40:55.507Z",
+        "course_id": "c15461a4-c8a8-41d9-aab5-5c8b6a562c1e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32e5a8c8-3532-42c4-af25-2f88b88d21e7",
+        "created_at": "2023-08-08T08:56:24.576Z",
+        "updated_at": "2023-08-08T02:28:29.433Z",
+        "course_id": "472d3bc1-449f-4974-8551-db7fd3136ea7",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "97c93317-ecc2-422c-b176-973e4dde8da6",
+        "title": "The Importance of Sustainable Living",
+        "content": "Explore the benefits of sustainable living and its impact on the environment",
+        "created_at": "2023-08-07T13:00:04.202Z",
+        "updated_at": "2023-08-08T00:16:46.289Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8312eab7-9ce6-4162-a129-32b8da9597b3",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-07T11:01:45.966Z",
+        "updated_at": "2023-08-07T14:47:06.439Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "84f2552d-a7bb-4662-bf2a-909b31bfb794",
+        "title": "Unlocking Creativity: Strategies for Innovation",
+        "content": "Learn techniques to unleash your creativity and drive innovation in your work",
+        "created_at": "2023-08-07T19:13:40.748Z",
+        "updated_at": "2023-08-08T03:33:49.420Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0f95adc8-3183-4146-8188-4dc52b1abfa9",
+        "title": "The Future of E-commerce",
+        "content": "Get insights into the evolving landscape of e-commerce and its potential for growth",
+        "created_at": "2023-08-07T15:28:20.107Z",
+        "updated_at": "2023-08-07T14:19:51.950Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7c5be006-5d0b-4595-9678-b3396da5ad35",
+        "title": "The Power of Positive Thinking",
+        "content": "Understand the power of positive thinking and its influence on personal and professional success",
+        "created_at": "2023-08-08T02:49:36.889Z",
+        "updated_at": "2023-08-07T10:41:31.913Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "ae96f2c5-5b71-4f6e-b4d6-9daa37afb88f",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-08T03:23:46.501Z",
+        "updated_at": "2023-08-07T14:47:39.613Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "08eb9f72-8aca-4c83-ac16-3f9c27c0288b",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-08T05:19:39.000Z",
+        "updated_at": "2023-08-07T15:43:27.256Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "abf77136-39e6-43f5-bfb7-57a4526b8781",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Gain insights into financial management techniques for entrepreneurs",
+        "created_at": "2023-08-08T02:39:58.288Z",
+        "updated_at": "2023-08-07T17:43:54.950Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7c5e63f9-a28a-419e-8e6b-e280a53cc6fe",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of AI and ML and its applications",
+        "created_at": "2023-08-08T04:28:24.672Z",
+        "updated_at": "2023-08-07T16:05:31.372Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "bc980682-a3a0-4edf-8463-1b01b69a7b59",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and create your own websites",
+        "created_at": "2023-08-07T14:59:23.683Z",
+        "updated_at": "2023-08-07T09:55:26.510Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "ecadb42f-bdb5-4a32-a06e-8fe860b0dcf5",
+        "created_at": "2023-08-07T18:52:29.763Z",
+        "updated_at": "2023-08-07T10:25:35.915Z",
+        "course_id": "08eb9f72-8aca-4c83-ac16-3f9c27c0288b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b10ba005-71e2-4174-85fb-3004080644a1",
+        "created_at": "2023-08-07T10:47:54.673Z",
+        "updated_at": "2023-08-07T23:52:57.004Z",
+        "course_id": "bc980682-a3a0-4edf-8463-1b01b69a7b59",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c4d7ece-2ee6-48c9-9ef9-ec95af49d2b3",
+        "created_at": "2023-08-07T21:55:44.526Z",
+        "updated_at": "2023-08-07T21:04:44.519Z",
+        "course_id": "bc980682-a3a0-4edf-8463-1b01b69a7b59",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d104c15-bb78-4074-af4a-3d86ddb836da",
+        "created_at": "2023-08-08T05:52:48.533Z",
+        "updated_at": "2023-08-07T23:53:25.866Z",
+        "course_id": "7c5e63f9-a28a-419e-8e6b-e280a53cc6fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71f43219-3be2-4134-9175-80add9b3b77a",
+        "created_at": "2023-08-07T10:33:25.973Z",
+        "updated_at": "2023-08-07T16:11:54.426Z",
+        "course_id": "ae96f2c5-5b71-4f6e-b4d6-9daa37afb88f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "2f48be70-13c2-4f60-9d10-d54875445f63",
+        "title": "The Importance of Sustainable Living",
+        "content": "Learn how sustainable living can make a positive impact on the environment",
+        "created_at": "2023-08-07T09:30:14.873Z",
+        "updated_at": "2023-08-07T15:30:22.550Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "085adfa2-e07e-481d-91e3-b07a51c98d09",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-07T19:19:12.148Z",
+        "updated_at": "2023-08-07T13:14:37.947Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5781a981-1c3e-4551-913e-c3bb4988e82a",
+        "title": "The Power of Positive Thinking",
+        "content": "Explore the benefits of adopting a positive mindset and its impact on your life",
+        "created_at": "2023-08-08T05:01:37.594Z",
+        "updated_at": "2023-08-07T23:26:35.203Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "d8e84c89-98d1-43b8-a260-95c87df4384a",
+        "title": "Exploring the World of Virtual Reality",
+        "content": "Dive into the fascinating world of virtual reality and its potential applications",
+        "created_at": "2023-08-07T10:25:54.387Z",
+        "updated_at": "2023-08-08T03:52:12.627Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b5d26259-f90e-4eff-99b4-27aea2d95d4b",
+        "title": "The Art of Writing Compelling Blog Posts",
+        "content": "Master the art of writing engaging and informative blog posts that captivate your readers",
+        "created_at": "2023-08-08T01:44:31.258Z",
+        "updated_at": "2023-08-07T16:50:25.726Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "07665f42-4293-4f0d-8764-3147f1d12373",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-07T16:55:13.726Z",
+        "updated_at": "2023-08-07T15:35:10.174Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a5eb7c91-0e8c-450f-87d7-0007aa60c6f0",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-08T07:33:46.887Z",
+        "updated_at": "2023-08-07T10:00:31.533Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "136c3d61-c7d4-4cee-8275-059ef5d56bdc",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Gain insights into financial management techniques for entrepreneurs",
+        "created_at": "2023-08-08T07:17:42.303Z",
+        "updated_at": "2023-08-07T16:46:37.900Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "101a6441-d516-4d59-bd0a-24804f535240",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of AI and ML and its applications",
+        "created_at": "2023-08-08T05:39:15.393Z",
+        "updated_at": "2023-08-07T21:44:08.795Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a628fe23-6cc2-4657-8533-3b3743d9de7a",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and create your own websites",
+        "created_at": "2023-08-07T10:12:16.363Z",
+        "updated_at": "2023-08-08T08:19:11.593Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "27fd0cd7-278e-4b8d-acfd-0196d2864883",
+        "created_at": "2023-08-07T15:12:03.509Z",
+        "updated_at": "2023-08-07T23:39:10.523Z",
+        "course_id": "101a6441-d516-4d59-bd0a-24804f535240",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a2e297e-fd8b-4228-bad3-084865e9c1cc",
+        "created_at": "2023-08-07T15:27:17.787Z",
+        "updated_at": "2023-08-08T05:15:57.855Z",
+        "course_id": "a628fe23-6cc2-4657-8533-3b3743d9de7a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4c67304-621c-4aa6-8314-32da7bb7af12",
+        "created_at": "2023-08-08T01:25:04.525Z",
+        "updated_at": "2023-08-07T22:42:09.537Z",
+        "course_id": "a5eb7c91-0e8c-450f-87d7-0007aa60c6f0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "863f6166-e63e-4bfd-84ae-eb65d7fdfa27",
+        "created_at": "2023-08-08T02:03:17.823Z",
+        "updated_at": "2023-08-08T01:36:46.050Z",
+        "course_id": "a5eb7c91-0e8c-450f-87d7-0007aa60c6f0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47f7e50f-99da-40bc-ba6d-3885132458ee",
+        "created_at": "2023-08-07T19:51:03.887Z",
+        "updated_at": "2023-08-08T05:31:29.592Z",
+        "course_id": "136c3d61-c7d4-4cee-8275-059ef5d56bdc",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "6ab773bd-c134-4a65-a3b8-3cbcbe83c089",
+        "title": "The Importance of Sustainable Living",
+        "content": "Learn how sustainable living can make a positive impact on the environment",
+        "created_at": "2023-08-07T09:41:46.946Z",
+        "updated_at": "2023-08-08T02:36:13.105Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "dcfac898-eac6-48e9-aed5-b65bc945cf5a",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-08T02:35:31.897Z",
+        "updated_at": "2023-08-07T15:10:13.356Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1e66c6cd-c0fe-4178-89c4-fb7a1269f360",
+        "title": "The Power of Positive Thinking",
+        "content": "Explore the benefits of adopting a positive mindset and its impact on your life",
+        "created_at": "2023-08-08T03:05:04.556Z",
+        "updated_at": "2023-08-07T20:05:54.606Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3acfed56-64fc-4b6d-8321-0c130f6ddece",
+        "title": "Exploring the World of Virtual Reality",
+        "content": "Dive into the fascinating world of virtual reality and its potential applications",
+        "created_at": "2023-08-08T04:52:30.365Z",
+        "updated_at": "2023-08-07T18:32:24.433Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "56a18d74-f1ff-4035-b213-b09ed9b8eacf",
+        "title": "The Art of Writing Compelling Blog Posts",
+        "content": "Master the art of writing engaging and informative blog posts to captivate your readers",
+        "created_at": "2023-08-07T10:22:04.188Z",
+        "updated_at": "2023-08-07T13:49:54.040Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "271cb38e-0db3-4c4a-bfc8-45e29e2c1054",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-08T03:40:52.467Z",
+        "updated_at": "2023-08-07T11:44:16.297Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8377ddcf-e4b2-40e5-a762-8e09ba9e6682",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-07T22:25:49.627Z",
+        "updated_at": "2023-08-08T06:02:05.858Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "57c7016c-6bc6-48c1-9d34-9a6e3d744ff9",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-08T05:38:54.047Z",
+        "updated_at": "2023-08-07T12:31:05.735Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "369660da-1431-4730-8dc4-a7e609f59401",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-08T02:40:06.464Z",
+        "updated_at": "2023-08-07T22:28:45.504Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "bf97e76b-dbc5-4c72-9a39-594b1acbe236",
+        "title": "Web Development for Beginners",
+        "description": "Build your own websites and web applications from scratch",
+        "created_at": "2023-08-07T23:15:34.046Z",
+        "updated_at": "2023-08-07T18:24:34.708Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "2caabd0b-663b-4e7e-a0b4-86d2abd273c4",
+        "created_at": "2023-08-07T20:33:42.548Z",
+        "updated_at": "2023-08-07T23:01:33.578Z",
+        "course_id": "57c7016c-6bc6-48c1-9d34-9a6e3d744ff9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51297af5-2819-432f-977e-13cc6f90af04",
+        "created_at": "2023-08-07T23:20:52.770Z",
+        "updated_at": "2023-08-07T10:50:20.675Z",
+        "course_id": "8377ddcf-e4b2-40e5-a762-8e09ba9e6682",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "877a4b7a-6900-48f3-ad0e-0730ba0d32c1",
+        "created_at": "2023-08-08T05:57:20.604Z",
+        "updated_at": "2023-08-07T18:01:42.275Z",
+        "course_id": "271cb38e-0db3-4c4a-bfc8-45e29e2c1054",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66d5e742-429d-4b8b-8794-c011f1560e42",
+        "created_at": "2023-08-07T09:45:03.061Z",
+        "updated_at": "2023-08-07T11:07:42.857Z",
+        "course_id": "271cb38e-0db3-4c4a-bfc8-45e29e2c1054",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d73ee9d-4636-4eeb-9dc1-0ad8eb673d87",
+        "created_at": "2023-08-07T12:40:06.302Z",
+        "updated_at": "2023-08-07T20:20:25.783Z",
+        "course_id": "8377ddcf-e4b2-40e5-a762-8e09ba9e6682",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "3695442e-838f-4b71-9d5a-713cef0800cb",
+        "title": "The Importance of Sustainable Living",
+        "content": "Learn how sustainable living can positively impact the environment and our lives",
+        "created_at": "2023-08-07T22:12:57.942Z",
+        "updated_at": "2023-08-08T08:12:27.748Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3fff7e92-718b-4cec-9e4e-e7b0e70d5ee9",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-07T16:27:03.589Z",
+        "updated_at": "2023-08-07T11:19:12.800Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "60cf2ca3-67a1-4fe8-ad10-f0987114a7e9",
+        "title": "The Future of E-commerce",
+        "content": "Explore the latest trends and advancements in the world of e-commerce",
+        "created_at": "2023-08-07T16:11:01.721Z",
+        "updated_at": "2023-08-07T17:59:07.830Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "281f7b90-7b3d-4260-995b-b1866d65bd85",
+        "title": "Exploring the Benefits of Meditation",
+        "content": "Discover the numerous benefits of incorporating meditation into your daily routine",
+        "created_at": "2023-08-07T11:53:27.439Z",
+        "updated_at": "2023-08-07T18:41:25.644Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "efb6fe34-1e8f-4fe9-968d-c91fa7d11c31",
+        "title": "The Art of Public Speaking",
+        "content": "Master the art of public speaking and enhance your communication skills",
+        "created_at": "2023-08-07T16:56:49.928Z",
+        "updated_at": "2023-08-07T10:36:29.124Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "46e6ca94-4044-4c8f-b880-191a113a20cb",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-07T15:55:08.471Z",
+        "updated_at": "2023-08-08T07:35:24.011Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "cb8fba4b-9626-44d5-9289-31261e7f8e7d",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-07T15:28:31.742Z",
+        "updated_at": "2023-08-08T01:54:41.022Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "927fef78-0e0d-4c52-98d2-a7771b71b982",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-08T04:11:36.942Z",
+        "updated_at": "2023-08-07T16:37:37.247Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0e18a4a8-abc6-46c8-9462-7cc3c8c454ab",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-08T02:53:05.748Z",
+        "updated_at": "2023-08-07T12:28:13.904Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "391beeb9-68e8-494a-a7db-79afb8ef90db",
+        "title": "Web Development for Beginners",
+        "description": "Build your own websites and web applications from scratch",
+        "created_at": "2023-08-07T14:24:20.830Z",
+        "updated_at": "2023-08-07T21:07:15.284Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "0a22d0e9-7f7f-4268-9dbe-f59d40ebcfdb",
+        "created_at": "2023-08-07T14:52:47.174Z",
+        "updated_at": "2023-08-07T21:13:55.225Z",
+        "course_id": "927fef78-0e0d-4c52-98d2-a7771b71b982",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7091f330-cd7d-49bc-aa8b-9aec8420b1ff",
+        "created_at": "2023-08-08T06:19:25.113Z",
+        "updated_at": "2023-08-07T16:58:41.700Z",
+        "course_id": "46e6ca94-4044-4c8f-b880-191a113a20cb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c0a382c-da74-4672-8c9c-716eec10cd7f",
+        "created_at": "2023-08-07T20:36:25.087Z",
+        "updated_at": "2023-08-07T15:28:59.944Z",
+        "course_id": "cb8fba4b-9626-44d5-9289-31261e7f8e7d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4ea4695-e245-472a-8712-f9b7e25bac80",
+        "created_at": "2023-08-07T16:30:00.548Z",
+        "updated_at": "2023-08-07T17:37:24.025Z",
+        "course_id": "391beeb9-68e8-494a-a7db-79afb8ef90db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bcfc9a1d-4a0f-4b83-9c18-93ebf05e0a91",
+        "created_at": "2023-08-07T12:26:45.590Z",
+        "updated_at": "2023-08-07T16:41:01.718Z",
+        "course_id": "cb8fba4b-9626-44d5-9289-31261e7f8e7d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "2586eaba-d5cf-4e03-a4fb-852f931aa47a",
+        "title": "The Importance of Sustainable Living",
+        "content": "Learn how sustainable living can positively impact the environment and our lives",
+        "created_at": "2023-08-08T01:25:38.318Z",
+        "updated_at": "2023-08-07T20:09:33.171Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5ff08077-8928-4e0c-b7e6-a991e93722b2",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-07T16:45:21.046Z",
+        "updated_at": "2023-08-08T06:16:21.402Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2cc1bf22-4df7-4070-b579-e4140f1cbb36",
+        "title": "The Future of E-commerce",
+        "content": "Explore the latest trends and advancements in the world of e-commerce",
+        "created_at": "2023-08-08T09:09:53.518Z",
+        "updated_at": "2023-08-08T05:05:27.804Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2b589b6e-a326-4028-b799-49ecfc2052c5",
+        "title": "Exploring the Benefits of Meditation",
+        "content": "Discover the numerous benefits of incorporating meditation into your daily routine",
+        "created_at": "2023-08-07T17:02:43.548Z",
+        "updated_at": "2023-08-08T03:49:58.286Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "767506b5-eded-4534-a756-72f40a6d4ae4",
+        "title": "The Art of Public Speaking",
+        "content": "Master the art of public speaking and enhance your communication skills",
+        "created_at": "2023-08-08T07:03:21.947Z",
+        "updated_at": "2023-08-07T14:29:27.476Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "8be40d28-2244-453b-a6f1-84f1f06ae27f",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your own applications",
+        "created_at": "2023-08-08T00:28:17.441Z",
+        "updated_at": "2023-08-07T14:44:50.505Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7eb71049-759c-4712-98d1-28fc05d05a44",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-07T18:48:05.255Z",
+        "updated_at": "2023-08-08T03:02:18.107Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0a26e86a-280f-4fe8-99f9-4a35828aca75",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-08T04:55:02.682Z",
+        "updated_at": "2023-08-08T04:33:46.070Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e8e1330b-1072-4a17-9df3-149fa7689715",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the world of AI and ML and their applications in various industries",
+        "created_at": "2023-08-07T14:41:49.210Z",
+        "updated_at": "2023-08-08T02:59:09.807Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "704cc231-60c8-4799-9119-2a647c1563a5",
+        "title": "Web Development for Beginners",
+        "description": "Build your own websites and web applications from scratch",
+        "created_at": "2023-08-08T03:52:24.403Z",
+        "updated_at": "2023-08-08T05:34:51.188Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "86bd8fd2-cb15-459c-b20a-626c4bd7c982",
+        "created_at": "2023-08-08T01:46:32.876Z",
+        "updated_at": "2023-08-08T06:39:44.366Z",
+        "course_id": "e8e1330b-1072-4a17-9df3-149fa7689715",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e6dc468-b1dd-4cb6-98a0-24e7bf2ae276",
+        "created_at": "2023-08-07T13:46:20.227Z",
+        "updated_at": "2023-08-07T12:36:50.120Z",
+        "course_id": "7eb71049-759c-4712-98d1-28fc05d05a44",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3457672a-091f-4dd4-9b53-83d176473634",
+        "created_at": "2023-08-07T20:10:01.952Z",
+        "updated_at": "2023-08-07T21:01:49.706Z",
+        "course_id": "e8e1330b-1072-4a17-9df3-149fa7689715",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac8ef6d4-2c48-49bc-b323-00b2d2f20f1d",
+        "created_at": "2023-08-07T17:49:43.228Z",
+        "updated_at": "2023-08-08T08:31:54.404Z",
+        "course_id": "704cc231-60c8-4799-9119-2a647c1563a5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4cdc6bd-4514-45af-b609-8e37dccb6205",
+        "created_at": "2023-08-08T06:58:57.450Z",
+        "updated_at": "2023-08-08T00:07:52.471Z",
+        "course_id": "e8e1330b-1072-4a17-9df3-149fa7689715",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "f83c25ee-dc9c-4249-b89e-68a4a343fd91",
+        "title": "The Importance of Sustainable Living",
+        "content": "Learn how sustainable living can positively impact the environment and our lives",
+        "created_at": "2023-08-08T00:36:08.023Z",
+        "updated_at": "2023-08-08T01:15:53.748Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "bc452e25-73fd-41bb-9208-f7bb7be4141d",
+        "title": "Tips for Effective Time Management",
+        "content": "Discover practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-07T21:58:50.705Z",
+        "updated_at": "2023-08-07T11:17:50.336Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "542f055f-f408-4956-afa2-bdd08ba44c7e",
+        "title": "The Future of E-commerce",
+        "content": "Explore the latest trends and advancements in the world of e-commerce",
+        "created_at": "2023-08-07T09:42:53.989Z",
+        "updated_at": "2023-08-07T22:21:05.209Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "99daa60b-a33f-44d7-817a-ec24f7ea6e5c",
+        "title": "Exploring the Benefits of Meditation",
+        "content": "Discover the numerous benefits of incorporating meditation into your daily routine",
+        "created_at": "2023-08-07T21:52:05.846Z",
+        "updated_at": "2023-08-07T15:41:43.904Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "243d41d9-99e2-4cf5-8d97-8c6c0f5db81a",
+        "title": "The Art of Public Speaking",
+        "content": "Master the art of public speaking and enhance your communication skills",
+        "created_at": "2023-08-07T20:12:51.891Z",
+        "updated_at": "2023-08-07T22:41:38.931Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "9bb48379-cc50-4108-aafe-aa1ce2393c57",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-08T07:13:04.585Z",
+        "updated_at": "2023-08-08T01:18:22.681Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0ba1fd1c-2719-4512-9b11-6cffd5e19e36",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-08T04:41:01.759Z",
+        "updated_at": "2023-08-07T10:47:08.889Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "fc77968e-a868-4d34-bd04-36fefce3ce9b",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-07T21:35:16.968Z",
+        "updated_at": "2023-08-07T20:51:39.800Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c623629d-9e4d-41fe-ab4d-4872a7c1ceba",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of AI and ML and its real-world applications",
+        "created_at": "2023-08-08T00:31:14.055Z",
+        "updated_at": "2023-08-07T18:07:53.779Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a8d8eb6b-4642-46f7-af30-f017f1c07915",
+        "title": "Web Development Fundamentals",
+        "description": "Build a solid foundation in web development and create dynamic websites",
+        "created_at": "2023-08-08T09:11:05.712Z",
+        "updated_at": "2023-08-07T12:43:01.223Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "b5e558e5-e72c-403e-b351-5c47a8c8dd45",
+        "created_at": "2023-08-08T09:12:46.810Z",
+        "updated_at": "2023-08-08T04:16:49.325Z",
+        "course_id": "9bb48379-cc50-4108-aafe-aa1ce2393c57",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ac3b287-80b3-49e3-86ae-30de933375aa",
+        "created_at": "2023-08-07T21:48:48.575Z",
+        "updated_at": "2023-08-07T17:06:56.543Z",
+        "course_id": "fc77968e-a868-4d34-bd04-36fefce3ce9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fee6503-498d-428e-8e7b-f1953277511b",
+        "created_at": "2023-08-07T11:18:50.056Z",
+        "updated_at": "2023-08-07T14:56:17.919Z",
+        "course_id": "9bb48379-cc50-4108-aafe-aa1ce2393c57",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90767837-3052-486d-9f17-be613742397a",
+        "created_at": "2023-08-07T14:43:53.377Z",
+        "updated_at": "2023-08-07T21:58:31.529Z",
+        "course_id": "c623629d-9e4d-41fe-ab4d-4872a7c1ceba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb1f914f-b6b5-428e-94ad-ae6fac4f8ac2",
+        "created_at": "2023-08-08T00:53:58.247Z",
+        "updated_at": "2023-08-07T13:13:44.470Z",
+        "course_id": "9bb48379-cc50-4108-aafe-aa1ce2393c57",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "df8db6d3-650c-4ce6-9620-c94742b14a58",
+        "title": "The Importance of Sustainable Living",
+        "content": "Explore the benefits of sustainable living and its impact on the environment",
+        "created_at": "2023-08-08T04:30:07.684Z",
+        "updated_at": "2023-08-07T21:38:34.513Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c13a7ccf-127c-41d5-8cf9-363de0acfae2",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-08T01:00:19.959Z",
+        "updated_at": "2023-08-07T16:41:27.520Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f30cb465-0084-468f-9dd2-f2f0a1fa3d62",
+        "title": "Unlocking Creativity: Strategies for Innovation",
+        "content": "Discover techniques to unleash your creativity and foster innovation",
+        "created_at": "2023-08-07T11:01:25.352Z",
+        "updated_at": "2023-08-07T18:12:18.512Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1bd491bb-d946-447c-9647-7edd5acab6b1",
+        "title": "The Future of E-commerce",
+        "content": "Gain insights into the evolving landscape of e-commerce and its potential",
+        "created_at": "2023-08-07T13:48:04.711Z",
+        "updated_at": "2023-08-08T00:31:39.863Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c06ef06b-b8fe-49bc-9769-bea8229ef12c",
+        "title": "The Power of Positive Thinking",
+        "content": "Harness the power of positive thinking to overcome challenges and achieve success",
+        "created_at": "2023-08-07T17:25:22.322Z",
+        "updated_at": "2023-08-07T17:48:01.949Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "f780a844-4d66-4470-aa58-a731a70f073d",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-07T11:41:11.292Z",
+        "updated_at": "2023-08-07T11:07:28.661Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4475d105-6f64-4ef6-81ed-dea02ba6d293",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-08T05:47:34.530Z",
+        "updated_at": "2023-08-08T01:01:21.851Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "d132469a-3a1e-417e-aca2-f93775057f46",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "created_at": "2023-08-07T10:35:57.187Z",
+        "updated_at": "2023-08-08T00:16:26.919Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8a9fc2ed-0627-4a51-bff9-e1c0308ed87f",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of AI and ML and its real-world applications",
+        "created_at": "2023-08-08T02:20:14.068Z",
+        "updated_at": "2023-08-07T14:20:11.548Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "63f97093-960d-4718-b6fe-be6bd5531da5",
+        "title": "Web Development Fundamentals",
+        "description": "Build a solid foundation in web development and create dynamic websites",
+        "created_at": "2023-08-07T13:20:25.357Z",
+        "updated_at": "2023-08-07T19:07:23.593Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "7f9a3c67-165f-4b5c-be82-f77fa3ad86ef",
+        "created_at": "2023-08-07T21:15:24.741Z",
+        "updated_at": "2023-08-07T16:28:41.319Z",
+        "course_id": "63f97093-960d-4718-b6fe-be6bd5531da5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dbfa330-d7b3-4c12-b1fb-e916cf5fee51",
+        "created_at": "2023-08-07T12:03:13.745Z",
+        "updated_at": "2023-08-08T08:10:29.588Z",
+        "course_id": "63f97093-960d-4718-b6fe-be6bd5531da5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7313bcb2-4b1b-4fbe-b662-909d8769494f",
+        "created_at": "2023-08-07T11:32:34.595Z",
+        "updated_at": "2023-08-07T16:26:13.166Z",
+        "course_id": "63f97093-960d-4718-b6fe-be6bd5531da5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d25f26de-8838-4921-b7fb-18503530537b",
+        "created_at": "2023-08-07T16:23:44.733Z",
+        "updated_at": "2023-08-07T13:57:31.078Z",
+        "course_id": "d132469a-3a1e-417e-aca2-f93775057f46",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f39db15e-0f9c-4e66-9792-fae4952b409d",
+        "created_at": "2023-08-08T07:15:21.663Z",
+        "updated_at": "2023-08-07T23:26:41.543Z",
+        "course_id": "d132469a-3a1e-417e-aca2-f93775057f46",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "ac698ed0-3858-4f03-81e3-6cbe767f8633",
+        "title": "The Importance of Sustainable Living",
+        "content": "Explore the benefits of sustainable living and its impact on the environment",
+        "created_at": "2023-08-08T06:55:16.724Z",
+        "updated_at": "2023-08-07T18:57:27.756Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "70fe5722-c64f-4cba-8c44-6aab87d8c4b7",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn practical tips for managing your time efficiently and achieving your goals",
+        "created_at": "2023-08-08T04:47:43.325Z",
+        "updated_at": "2023-08-08T07:07:37.282Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "44448da6-37de-400c-a491-e6595cb66c85",
+        "title": "Unlocking Creativity: Strategies for Innovation",
+        "content": "Discover techniques to unleash your creativity and foster innovation",
+        "created_at": "2023-08-07T11:22:20.902Z",
+        "updated_at": "2023-08-07T14:00:03.297Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b559e9e3-3456-4658-97e8-a4babb82957c",
+        "title": "The Future of E-commerce",
+        "content": "Gain insights into the evolving landscape of e-commerce and its potential",
+        "created_at": "2023-08-07T10:06:28.303Z",
+        "updated_at": "2023-08-07T12:59:14.729Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "532a43da-17fb-4f6e-b833-b93fe5593347",
+        "title": "The Power of Positive Thinking",
+        "content": "Harness the power of positive thinking to overcome challenges and achieve success",
+        "created_at": "2023-08-07T18:01:22.806Z",
+        "updated_at": "2023-08-07T16:16:35.270Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "eaf8565b-030d-42f8-bf94-7e519cb62ac0",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your problem-solving skills",
+        "created_at": "2023-08-07T14:57:20.308Z",
+        "updated_at": "2023-08-07T18:30:06.854Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "64133e55-b635-4f72-b0ea-953be3189a2e",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "created_at": "2023-08-08T07:15:25.471Z",
+        "updated_at": "2023-08-07T16:30:05.022Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "51b216ce-1cab-400a-8471-a764f0937db1",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Gain insights into financial management techniques for entrepreneurs",
+        "created_at": "2023-08-08T03:52:55.228Z",
+        "updated_at": "2023-08-07T21:17:55.677Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "df57cb80-92ea-4e53-980b-c389495c7ebb",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the fascinating world of artificial intelligence and machine learning",
+        "created_at": "2023-08-07T12:37:42.949Z",
+        "updated_at": "2023-08-08T08:13:36.315Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "fdf54854-be96-46ce-8838-18678b44be96",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and create your own websites",
+        "created_at": "2023-08-08T06:43:46.099Z",
+        "updated_at": "2023-08-07T14:37:54.830Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "ac39be97-8185-4f54-8cab-33802b098646",
+        "created_at": "2023-08-08T06:01:58.723Z",
+        "updated_at": "2023-08-07T17:59:46.885Z",
+        "course_id": "fdf54854-be96-46ce-8838-18678b44be96",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3863cc20-dfaf-4180-bf7b-cf832fcffd04",
+        "created_at": "2023-08-07T23:31:49.701Z",
+        "updated_at": "2023-08-07T09:35:49.421Z",
+        "course_id": "51b216ce-1cab-400a-8471-a764f0937db1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "970b67b7-df9f-4f49-bc54-dd7d6aab08e8",
+        "created_at": "2023-08-07T18:22:37.152Z",
+        "updated_at": "2023-08-07T21:58:32.190Z",
+        "course_id": "fdf54854-be96-46ce-8838-18678b44be96",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9abc08f-80bc-48f3-9912-f2605b5698f2",
+        "created_at": "2023-08-07T15:26:23.010Z",
+        "updated_at": "2023-08-08T05:56:06.238Z",
+        "course_id": "51b216ce-1cab-400a-8471-a764f0937db1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d827b89c-5758-4857-9219-e918e1dac942",
+        "created_at": "2023-08-07T20:07:32.614Z",
+        "updated_at": "2023-08-07T22:12:44.573Z",
+        "course_id": "eaf8565b-030d-42f8-bf94-7e519cb62ac0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "e48b9827-ebfd-4220-a325-3ebc47db1ae8",
+        "title": "The Importance of Regular Exercise",
+        "content": "Regular exercise has numerous benefits for both physical and mental health",
+        "created_at": "2023-08-07T09:21:45.207Z",
+        "updated_at": "2023-08-07T18:50:42.395Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "570286f7-817f-4c2b-b5a1-31877bcee79d",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn how to manage your time effectively and increase productivity",
+        "created_at": "2023-08-07T11:08:25.777Z",
+        "updated_at": "2023-08-08T01:37:24.547Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0f09e9da-87ea-4855-8f35-3e6407e2f122",
+        "title": "Exploring the Wonders of Nature",
+        "content": "Embark on a journey to discover the beauty and wonders of nature",
+        "created_at": "2023-08-07T16:33:11.012Z",
+        "updated_at": "2023-08-08T08:56:38.082Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "df1b20ff-be8c-47de-9614-99bfbd193eec",
+        "title": "The Power of Positive Thinking",
+        "content": "Discover the impact of positive thinking on your overall well-being",
+        "created_at": "2023-08-08T02:22:21.360Z",
+        "updated_at": "2023-08-08T01:31:06.223Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6e0a946c-95fa-4382-bcf3-97547cfd403a",
+        "title": "Unleashing Your Creativity",
+        "content": "Unlock your creative potential and unleash your imagination",
+        "created_at": "2023-08-07T10:15:03.403Z",
+        "updated_at": "2023-08-08T04:11:43.556Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  }
+]
